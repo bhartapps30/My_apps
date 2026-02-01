@@ -1,0 +1,17 @@
+[
+  {
+    "name": "VLC",
+    "desc": "Free media player",
+    "url": "https://videolan.org/vlc"
+  },
+  {
+    "name": "GIMP",
+    "desc": "Image editor like Photoshop",
+    "url": "https://gimp.org"
+  },
+  {
+    "name": "LibreOffice",
+    "desc": "Office suite like MS Office",
+    "url": "https://libreoffice.org"
+  }
+]
