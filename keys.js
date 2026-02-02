@@ -1,6 +1,6 @@
 // 5 keys ROT13 + base64 (basic obfuscation)
 window.API_KEYS = [
-  atob("dm1Yb3h2YV9KQUlT"),
+  atob(AIzaSyAPKUElpNgkjWimNmaycXhzdSU3MTI91BM),
   atob("a21zNGRfR1BUNDI="),
   atob("bG00NTZfT1BFTjM="),
   atob("eGhzNzhfQ0xBU0U="),
